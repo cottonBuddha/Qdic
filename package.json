@@ -1,0 +1,31 @@
+{
+  "name": "qdic",
+  "version": "1.0.0",
+  "description": "dictionary cli",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "chalk":"2.0.1",
+    "inquire":"0.4.8",
+    "request":"2.81.0",
+    "ini":"1.3.4"    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cottonBuddha/Qdic.git"
+  },
+  "author": "cotton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cottonBuddha/Qdic/issues"
+  },
+  "keywords": [
+    "youdao",
+    "dictionary",
+    "cli"
+  ],
+  "homepage": "https://github.com/cottonBuddha/Qdic#readme"
+}
