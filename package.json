@@ -1,10 +1,10 @@
 {
   "name": "qdic",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "dictionary cli",
   "main": "index.js",
   "bin": {
-    "qdic": "./bin/qdic" 
+    "qdic": "./index.js" 
   },
   "dependencies": {
     "commander": "^2.11.0",
