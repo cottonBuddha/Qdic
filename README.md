@@ -2,7 +2,7 @@
 
 一个命令行查词工具，使用了有道、百度的api
 
-![image]("https://github.com/cottonBuddha/Qdic/demo.png")
+![image]("https://github.com/cottonBuddha/Qdic/raw/master/demo.jpg")
 ## 安装
 ```    
     $ npm install qdic -g
