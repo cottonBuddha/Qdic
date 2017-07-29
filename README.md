@@ -1,6 +1,7 @@
 # Qdic
 
 一个命令行查词工具，使用了有道、百度的api
+
 ![image]("https://github.com/cottonBuddha/Qdic/demo.png")
 ## 安装
 ```    
@@ -36,8 +37,8 @@
     setpath <path> 设置单词列表路径//默认在桌面
 ```
 ```
-    $ qdic buddha -s //查词并保存
-    $ qdic wl        //查看已保存的单词
+    $ qdic buddha -s  //查词并保存
+    $ qdic wl         //查看已保存的单词
     $ qdic setpath /Users/jqs/Desktop/Demo //保存至桌面的Demo文件夹中   
     
 ```
