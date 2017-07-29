@@ -1,7 +1,7 @@
 # Qdic
 
-一个集成谷歌、百度、有道API的命令行查词工具。
-<img src="https://github.com/cottonBuddha/Qdic/demo.png"/>
+一个命令行查词工具，使用了有道、百度的api
+![image]("https://github.com/cottonBuddha/Qdic/demo.png")
 ## 安装
 ```    
     $ npm install qdic -g
