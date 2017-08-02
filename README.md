@@ -22,10 +22,12 @@
     -b ,--baidu    使用百度翻译
     -y ,--youdao   使用有道词典
     -d ,--default  设置当前词典为默认词典
+    -r ,--read     单词发音
 ```
 ```
     $ qdic buddha -b     //使用百度翻译
     $ qdic buddha -b -d  //使用百度翻译,并将百度翻译设为默认
+    $ qdic buddha -r     //使用默认翻译,并单词发音
 ```
 ## 保存至单词列表
 ```
